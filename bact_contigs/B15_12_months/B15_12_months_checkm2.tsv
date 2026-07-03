@@ -1,0 +1,25 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1128111_Veillonella_atypica	29.35	0.63	Neural Network (Specific Model)	11	0.888	3486	276.54773869346735	742100	0.39	796	211	14514	None
+1308_Streptococcus_thermophilus	78.37	2.6	Neural Network (Specific Model)	11	0.848	15260	253.70048602673148	1472818	0.39	1646	144	38437	None
+1358_Lactococcus_lactis	100.0	2.73	Neural Network (Specific Model)	11	0.869	79238	286.06661502711074	2546149	0.35	2582	77	207655	None
+1502943_Veillonella_seminalis	82.43	0.01	Neural Network (Specific Model)	11	0.86	128375	320.2414223331254	1788160	0.42	1603	20	287972	None
+249061_uncultured_Actinomyces_sp.	10.23	0.27	Neural Network (Specific Model)	11	0.931	3817	284.18548387096774	226689	0.56	248	61	8732	None
+28025_Bifidobacterium_animalis	93.86	0.21	Neural Network (Specific Model)	11	0.878	105321	354.89811066126856	1795168	0.6	1482	23	312469	None
+3014891_Citrobacter_amalonaticus	26.34	0.11	Neural Network (Specific Model)	11	0.885	3501	253.21098772647574	1465708	0.54	1711	417	42422	None
+3016596_Klebsiella_oxytoca	18.34	0.16	Neural Network (Specific Model)	11	0.857	17333	271.2284023668639	800742	0.54	845	117	36873	None
+3017158_Raoultella_ornithinolytica	15.38	0.0	Neural Network (Specific Model)	11	0.879	3016	246.62600321027287	1046203	0.56	1246	321	22083	None
+3019600_Kluyvera_cryocrescens	24.46	0.48	Neural Network (Specific Model)	11	0.873	3824	255.41211225997046	1186422	0.54	1354	300	35035	None
+3019990_Atlantibacter_hermannii	53.12	1.83	Neural Network (Specific Model)	11	0.882	5070	262.17017146554514	2751169	0.54	3091	612	20102	None
+3027044_Phytobacter_diazotrophicus	11.11	0.0	Neural Network (Specific Model)	11	0.87	2989	240.83438485804416	525454	0.53	634	175	7567	None
+3027637_uncultured_Actinomyces_sp.	25.29	0.45	Neural Network (Specific Model)	11	0.918	4178	282.52742616033754	436780	0.55	474	113	11808	None
+35703_Citrobacter_amalonaticus	12.3	0.01	Neural Network (Specific Model)	11	0.878	10085	285.8326653306613	972353	0.51	998	119	33906	None
+395631_Phytobacter_diazotrophicus	45.71	4.55	Neural Network (Specific Model)	11	0.884	5874	264.3391206944833	3196489	0.53	3571	613	36539	None
+39777_Veillonella_atypica	27.66	0.28	Neural Network (Specific Model)	11	0.909	24202	321.6506717850288	552189	0.37	521	36	45375	None
+47715_Lacticaseibacillus_rhamnosus	99.47	0.43	Neural Network (Specific Model)	11	0.857	39660	303.44008875739644	2864904	0.47	2704	98	127199	None
+546_Citrobacter_freundii	70.88	4.32	Neural Network (Specific Model)	11	0.892	12233	290.1977715877437	3849356	0.52	3949	434	96157	None
+565_Atlantibacter_hermannii	11.23	0.0	Neural Network (Specific Model)	11	0.878	14169	279.42320819112626	558658	0.5	586	49	33839	None
+571_Klebsiella_oxytoca	73.89	1.95	Neural Network (Specific Model)	11	0.883	17273	300.0464798359535	4465494	0.55	4389	362	189521	None
+729_Haemophilus_parainfluenzae	55.12	2.91	Neural Network (Specific Model)	11	0.908	6946	275.6277665995976	1355631	0.4	1491	220	46078	None
+736_Haemophilus_paraphrohaemolyticus	83.0	1.02	Neural Network (Specific Model)	11	0.894	11773	294.0019749835418	1496795	0.41	1519	178	33059	None
+83427_uncultured_Streptococcus_sp.	89.82	4.1	Neural Network (Specific Model)	11	0.885	19233	303.70944838885856	1881976	0.42	1831	139	65304	None
+851_Fusobacterium_nucleatum	20.32	0.01	Gradient Boost (General Model)	11	0.855	10441	217.49019607843138	38850	0.28	51	7	14072	None

@@ -1,0 +1,15 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1128111_Veillonella_atypica	15.36	1.03	Neural Network (Specific Model)	11	0.865	8142	307.8882235528942	534387	0.38	501	91	48181	None
+1134687_Klebsiella_michiganensis	100.0	0.58	Neural Network (Specific Model)	11	0.884	272181	321.1514636449481	5764671	0.56	5295	33	569934	None
+1280_Staphylococcus_aureus	95.69	1.24	Neural Network (Specific Model)	11	0.84	21962	286.7088345085027	2463666	0.33	2411	162	78526	None
+1309_Streptococcus_mutans	99.87	3.25	Neural Network (Specific Model)	11	0.865	134468	303.26588983050846	1983117	0.37	1888	32	216435	None
+1311_Streptococcus_agalactiae	82.83	0.41	Neural Network (Specific Model)	11	0.895	94818	302.167530224525	1756691	0.35	1737	25	268485	None
+1318_Streptococcus_parasanguinis	71.19	0.44	Neural Network (Specific Model)	11	0.892	21231	311.1635977337111	1473973	0.42	1412	92	52927	None
+137838_Clostridium_neonatale	99.96	3.01	Neural Network (Specific Model)	11	0.833	55936	295.403979639056	4595576	0.28	4322	134	203785	None
+249061_uncultured_Actinomyces_sp.	85.43	1.61	Neural Network (Specific Model)	11	0.898	13283	327.9807583474816	1934153	0.66	1767	182	46682	None
+29466_Veillonella_parvula	95.07	0.15	Neural Network (Specific Model)	11	0.884	173443	327.2810666666667	2080825	0.39	1875	21	411257	None
+3015964_Streptococcus_agalactiae	20.73	0.0	Neural Network (Specific Model)	11	0.889	184364	270.1160220994475	329142	0.36	362	9	184364	None
+39777_Veillonella_atypica	74.41	1.69	Neural Network (Specific Model)	11	0.896	11866	299.8595041322314	1333982	0.39	1331	149	38173	None
+39778_Veillonella_dispar	34.84	0.14	Neural Network (Specific Model)	11	0.875	4713	279.55131004366814	876984	0.38	916	196	32865	None
+729_Haemophilus_parainfluenzae	77.93	3.52	Neural Network (Specific Model)	11	0.912	11242	299.24119718309856	1675584	0.39	1704	185	34079	None
+888746_Streptococcus_peroris	21.04	0.05	Neural Network (Specific Model)	11	0.897	3358	256.3969957081545	398793	0.39	466	118	12186	None

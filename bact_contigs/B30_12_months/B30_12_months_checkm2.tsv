@@ -1,0 +1,25 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+105841_Anaerostipes_caccae	100.0	1.53	Neural Network (Specific Model)	11	0.904	248614	307.36284329563813	3149881	0.44	3095	19	574739	None
+1110546_Veillonella_tobetsuensis	66.31	2.09	Neural Network (Specific Model)	11	0.895	6822	278.80840455840456	1309277	0.38	1404	229	37295	None
+137838_Clostridium_neonatale	99.96	4.79	Neural Network (Specific Model)	11	0.835	16119	291.5488011625091	4321890	0.28	4129	406	54839	None
+150055_Streptococcus_lutetiensis	94.8	3.13	Neural Network (Specific Model)	11	0.874	56985	278.50887265135697	1828355	0.37	1916	46	133056	None
+1547_Erysipelatoclostridium_ramosum	99.96	3.02	Gradient Boost (General Model)	11	0.887	101145	303.9070577984316	3532348	0.31	3443	57	246410	None
+1579_Lactobacillus_acidophilus	83.51	0.24	Neural Network (Specific Model)	11	0.896	29458	299.4849734826164	1698623	0.34	1697	87	75504	None
+1681_Bifidobacterium_bifidum	77.61	4.11	Neural Network (Specific Model)	11	0.864	62389	343.92247043363994	1815129	0.63	1522	44	131598	None
+1768764_Streptococcus_sp._CCH5-D3	35.07	0.67	Neural Network (Specific Model)	11	0.889	6291	276.07172557172555	894634	0.4	962	153	38880	None
+187326_Megasphaera_micronuciformis	91.43	0.63	Neural Network (Specific Model)	11	0.911	63115	306.2489748096075	1717713	0.45	1707	41	350441	None
+216816_Bifidobacterium_longum	77.6	0.09	Neural Network (Specific Model)	11	0.874	69841	355.9209237228831	1743010	0.6	1429	38	162302	None
+291645_Bacteroides_nordii	99.63	2.88	Neural Network (Specific Model)	11	0.894	43868	351.69402801671174	4796978	0.42	4069	164	151359	None
+292800_Flavonifractor_plautii	80.88	1.07	Neural Network (Specific Model)	11	0.882	81923	307.73099618188127	3010733	0.62	2881	55	251742	None
+29363_Clostridium_paraputrificum	58.61	1.8	Neural Network (Specific Model)	11	0.889	4077	263.2467917077986	1798039	0.3	2026	462	13423	None
+29466_Veillonella_parvula	100.0	4.34	Neural Network (Specific Model)	11	0.88	190618	325.5055636187712	2290690	0.39	2067	51	749027	None
+3012498_Streptococcus_sp._F0442	15.84	0.06	Neural Network (Specific Model)	11	0.916	3528	267.3841463414634	286522	0.42	328	79	8284	None
+3025388_uncultured_Actinomyces_sp.	50.76	0.82	Neural Network (Specific Model)	11	0.888	4430	294.53279242731577	1469027	0.66	1479	348	21585	None
+329854_Bacteroides_intestinalis	14.84	0.42	Neural Network (Specific Model)	11	0.886	11307	333.8400789733465	1143386	0.39	1013	136	48637	None
+371601_Bacteroides_xylanisolvens	99.75	0.78	Neural Network (Specific Model)	11	0.902	92634	374.08297227036394	5735307	0.42	4616	107	222946	None
+423477_Veillonella_rogosae	12.9	0.02	Neural Network (Specific Model)	11	0.852	4588	260.1652021089631	520488	0.38	569	119	17031	None
+47715_Lacticaseibacillus_rhamnosus	99.93	0.05	Neural Network (Specific Model)	11	0.852	43394	299.37183308494787	2824127	0.47	2684	89	136205	None
+562_Escherichia_coli	99.99	1.41	Neural Network (Specific Model)	11	0.884	30985	304.4955579631636	4760445	0.51	4615	256	128956	None
+59620_uncultured_Clostridium_sp.	92.25	3.36	Neural Network (Specific Model)	11	0.852	16084	293.04423076923075	2678263	0.27	2600	246	42268	None
+84112_Eggerthella_lenta	99.99	0.0	Neural Network (Specific Model)	11	0.877	106193	336.084250343879	3340318	0.65	2908	54	241612	None
+853_Faecalibacterium_prausnitzii	77.44	0.09	Neural Network (Specific Model)	11	0.867	200529	307.13903462749215	2023373	0.6	1906	29	339061	None

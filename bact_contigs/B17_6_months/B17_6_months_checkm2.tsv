@@ -1,0 +1,16 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+105841_Anaerostipes_caccae	93.9	1.81	Neural Network (Specific Model)	11	0.905	269481	305.619015734851	3020124	0.44	2987	16	389999	None
+1118058_Actinomyces_sp._ph3	66.15	0.15	Neural Network (Specific Model)	11	0.923	7358	317.96140939597313	1229250	0.56	1192	195	32134	None
+1134687_Klebsiella_michiganensis	100.0	2.29	Neural Network (Specific Model)	11	0.887	177497	316.42049861495843	5782911	0.56	5415	50	450258	None
+1304_Streptococcus_salivarius	16.19	0.0	Neural Network (Specific Model)	11	0.872	9252	281.3793774319066	496781	0.39	514	61	34643	None
+1547_Erysipelatoclostridium_ramosum	73.22	2.64	Gradient Boost (General Model)	11	0.887	255793	311.6149930587691	2273349	0.31	2161	23	342583	None
+249061_uncultured_Actinomyces_sp.	100.0	0.1	Neural Network (Specific Model)	11	0.89	64560	353.8112531969309	2328229	0.66	1955	48	208896	None
+292800_Flavonifractor_plautii	99.74	3.62	Neural Network (Specific Model)	11	0.888	115670	310.28009035172636	3243812	0.62	3099	52	309186	None
+29466_Veillonella_parvula	25.53	0.27	Neural Network (Specific Model)	11	0.859	3649	280.3879551820728	698078	0.38	714	197	14286	None
+37734_Enterococcus_casseliflavus	99.86	1.28	Neural Network (Specific Model)	11	0.88	66365	304.0834382871536	3287457	0.43	3176	85	300136	None
+39778_Veillonella_dispar	86.01	3.74	Neural Network (Specific Model)	11	0.886	21807	300.99229857819904	1718314	0.39	1688	114	88767	None
+43675_Rothia_mucilaginosa	100.0	0.73	Neural Network (Specific Model)	11	0.838	79171	348.528555431131	2226514	0.62	1786	53	209142	None
+545_Citrobacter_koseri	85.2	1.14	Neural Network (Specific Model)	11	0.892	31108	301.3108530594015	4527581	0.54	4478	243	128811	None
+59620_uncultured_Clostridium_sp.	93.56	0.45	Neural Network (Specific Model)	11	0.874	39091	325.2010582010582	3369186	0.43	3024	127	118647	None
+68892_Streptococcus_infantis	23.2	0.11	Neural Network (Specific Model)	11	0.909	13116	301.30925925925925	536256	0.39	540	48	39420	None
+84112_Eggerthella_lenta	98.36	0.24	Neural Network (Specific Model)	11	0.881	65436	340.96649746192895	3426917	0.64	2955	77	230079	None

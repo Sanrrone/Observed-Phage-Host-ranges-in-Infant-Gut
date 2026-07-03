@@ -1,0 +1,23 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1028307_Klebsiella_aerogenes	11.29	0.01	Neural Network (Specific Model)	11	0.881	3008	246.38152011922503	561831	0.55	671	183	11572	None
+1128111_Veillonella_atypica	11.42	0.0	Neural Network (Specific Model)	11	0.869	3539	268.1975308641975	224613	0.39	243	70	9194	None
+1134687_Klebsiella_michiganensis	79.67	3.22	Neural Network (Specific Model)	11	0.881	17594	295.64837603389145	4978421	0.56	4957	442	107831	None
+1261_Peptostreptococcus_anaerobius	98.9	0.43	Gradient Boost (General Model)	11	0.875	44671	315.72331786542924	1863961	0.36	1724	73	86860	None
+1351_Enterococcus_faecalis	100.0	0.11	Neural Network (Specific Model)	11	0.882	197197	314.02759678037563	2783618	0.37	2609	24	719805	None
+137838_Clostridium_neonatale	100.0	2.28	Neural Network (Specific Model)	11	0.832	56764	289.39829787234044	4899636	0.28	4700	172	187220	None
+1423797_Lacticaseibacillus_rhamnosus	42.14	0.0	Neural Network (Specific Model)	11	0.867	3091	246.68349660889223	1130144	0.47	1327	363	8139	None
+1491_Clostridium_botulinum	99.86	2.77	Neural Network (Specific Model)	11	0.828	48801	294.2146118721461	3966012	0.28	3723	130	220402	None
+1502_Clostridium_perfringens	94.19	1.06	Neural Network (Specific Model)	11	0.842	148442	312.9941033645508	3211770	0.28	2883	47	309647	None
+1547_Erysipelatoclostridium_ramosum	65.64	2.05	Gradient Boost (General Model)	11	0.885	5767	264.75605143721634	2368756	0.31	2644	453	22050	None
+2049040_Roseburia_sp.	72.83	1.47	Neural Network (Specific Model)	11	0.897	7484	298.3866328257191	2354940	0.43	2364	372	29535	None
+261299_Intestinibacter_bartlettii	79.31	1.67	Gradient Boost (General Model)	11	0.856	5838	273.48593121929434	2144880	0.28	2239	396	26366	None
+28026_Bifidobacterium_pseudocatenulatum	91.92	3.2	Neural Network (Specific Model)	11	0.881	185611	353.3854224185533	2176170	0.56	1811	36	506120	None
+292800_Flavonifractor_plautii	99.72	1.63	Neural Network (Specific Model)	11	0.885	92187	303.036386062288	3323754	0.62	3243	54	225635	None
+29466_Veillonella_parvula	88.13	1.69	Neural Network (Specific Model)	11	0.88	33723	313.42602040816325	2091748	0.39	1960	100	104675	None
+3030146_uncultured_Actinomyces_sp.	18.1	0.1	Neural Network (Specific Model)	11	0.919	17517	346.80104712041884	431838	0.56	382	39	49101	None
+435842_Streptococcus_sp._C150	99.98	2.79	Neural Network (Specific Model)	11	0.883	65358	311.7990171990172	2151218	0.4	2035	54	180314	None
+43675_Rothia_mucilaginosa	56.18	0.2	Neural Network (Specific Model)	11	0.839	14467	327.7985462097612	1128364	0.6	963	91	37301	None
+546_Citrobacter_freundii	58.49	0.82	Neural Network (Specific Model)	11	0.889	9549	280.9039878079756	3722389	0.52	3937	502	123816	None
+548_Klebsiella_aerogenes	22.43	0.09	Neural Network (Specific Model)	11	0.883	10907	273.96682791983415	1344400	0.53	1447	155	30651	None
+562_Escherichia_coli	86.63	4.27	Neural Network (Specific Model)	11	0.887	73256	314.0473944824334	4497376	0.51	4241	104	302860	None
+83427_uncultured_Streptococcus_sp.	82.69	1.62	Neural Network (Specific Model)	11	0.888	19329	304.0922509225092	1666626	0.42	1626	123	70660	None

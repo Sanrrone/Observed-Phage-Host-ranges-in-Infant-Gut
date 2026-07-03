@@ -1,0 +1,19 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1134687_Klebsiella_michiganensis	92.58	0.36	Neural Network (Specific Model)	11	0.883	72391	313.66013448607106	5537771	0.56	5205	131	290004	None
+1158614_Enterococcus_gilvus	16.81	0.0	Neural Network (Specific Model)	11	0.866	3207	241.71611721611723	456499	0.42	546	142	7719	None
+1311774_Acinetobacter_pittii	18.28	0.03	Neural Network (Specific Model)	11	0.86	31067	289.4639905548996	854639	0.38	847	38	122748	None
+1351_Enterococcus_faecalis	100.0	0.17	Neural Network (Specific Model)	11	0.883	161821	312.0151908114116	2856550	0.38	2699	28	374775	None
+137838_Clostridium_neonatale	99.99	3.19	Neural Network (Specific Model)	11	0.832	53072	292.49251497005986	4925745	0.28	4676	173	187222	None
+1492_Clostridium_butyricum	93.46	1.64	Neural Network (Specific Model)	11	0.85	26104	311.0990233315247	4044796	0.28	3686	219	141857	None
+1547_Erysipelatoclostridium_ramosum	60.06	1.27	Gradient Boost (General Model)	11	0.883	152080	310.9571150097466	2164025	0.31	2052	26	415414	None
+169435_Anaerotruncus_colihominis	93.9	1.58	Gradient Boost (General Model)	11	0.88	186869	305.82477876106196	3525247	0.54	3390	38	415815	None
+1870991_Massilioclostridium_coli	99.98	0.55	Neural Network (Specific Model)	11	0.843	56838	335.01918786256135	2668496	0.39	2241	72	254286	None
+249061_uncultured_Actinomyces_sp.	99.64	0.05	Neural Network (Specific Model)	11	0.92	269292	346.5314353499407	1901924	0.56	1686	14	945663	None
+29466_Veillonella_parvula	90.95	3.28	Neural Network (Specific Model)	11	0.879	7860	297.82872928176795	2020834	0.38	1991	319	70305	None
+3017874_Enterococcus_gilvus	27.34	0.3	Neural Network (Specific Model)	11	0.877	3121	243.543321299639	921799	0.43	1108	294	9247	None
+48296_Acinetobacter_pittii	84.04	0.05	Neural Network (Specific Model)	11	0.883	85241	306.4012495661229	2994615	0.39	2881	38	272707	None
+562_Escherichia_coli	50.24	0.03	Neural Network (Specific Model)	11	0.887	376598	312.6255728689276	2302968	0.51	2182	20	524433	None
+68891_Streptococcus_peroris	66.86	3.06	Neural Network (Specific Model)	11	0.902	14833	274.9964513839603	1286187	0.39	1409	121	31933	None
+83427_uncultured_Streptococcus_sp.	99.96	2.39	Neural Network (Specific Model)	11	0.886	51935	310.392177589852	1984836	0.42	1892	55	153539	None
+888746_Streptococcus_peroris	11.57	0.01	Neural Network (Specific Model)	11	0.898	8503	279.14516129032256	230867	0.4	248	41	27145	None
+997355_Cutibacterium_avidum	23.07	0.08	Neural Network (Specific Model)	11	0.902	2638	255.14902506963787	607686	0.64	718	216	7776	None

@@ -1,0 +1,21 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1241616_Staphylococcus_aureus	20.78	0.12	Neural Network (Specific Model)	11	0.856	56319	329.74558303886926	326918	0.34	283	16	87706	None
+1280_Staphylococcus_aureus	88.15	1.02	Neural Network (Specific Model)	11	0.842	35048	294.6628820960699	2400834	0.33	2290	92	91367	None
+1282_Staphylococcus_epidermidis	94.23	3.98	Neural Network (Specific Model)	11	0.837	48741	297.48049101271374	2429112	0.32	2281	75	111011	None
+1290_Staphylococcus_hominis	82.58	3.31	Neural Network (Specific Model)	11	0.87	28206	289.04297693920336	1898807	0.31	1908	105	77330	None
+131110_Schaalia_radingae	99.41	0.31	Neural Network (Specific Model)	11	0.906	79972	344.4170168067227	2165405	0.59	1904	50	173122	None
+1311774_Acinetobacter_pittii	17.13	0.21	Neural Network (Specific Model)	11	0.866	13121	280.55754189944133	868318	0.38	895	91	39415	None
+1328_Streptococcus_anginosus	98.02	0.33	Neural Network (Specific Model)	11	0.878	121065	284.300395256917	1716170	0.39	1771	35	258269	None
+1351_Enterococcus_faecalis	99.72	3.85	Neural Network (Specific Model)	11	0.884	214413	310.4869070208729	2772941	0.38	2635	23	525430	None
+1496_Clostridioides_difficile	98.99	1.94	Neural Network (Specific Model)	11	0.842	24426	293.4088100993822	3889949	0.28	3723	242	97567	None
+1559_Clostridium_tertium	99.87	2.39	Neural Network (Specific Model)	11	0.854	158705	305.6559356136821	3730546	0.28	3479	43	416767	None
+28025_Bifidobacterium_animalis	99.75	0.14	Neural Network (Specific Model)	11	0.874	165679	356.9628205128205	1908512	0.6	1560	18	321474	None
+28037_Streptococcus_mitis	51.64	0.34	Neural Network (Specific Model)	11	0.896	7328	291.4546232876712	1137965	0.4	1168	179	29744	None
+29466_Veillonella_parvula	85.95	3.35	Neural Network (Specific Model)	11	0.873	62994	331.70641646489105	1881353	0.39	1652	52	219748	None
+3023084_Staphylococcus_lugdunensis	79.05	1.69	Neural Network (Specific Model)	11	0.857	6771	267.3459652251449	2096172	0.34	2243	384	26366	None
+39778_Veillonella_dispar	40.3	0.71	Neural Network (Specific Model)	11	0.894	27826	309.8848728246319	775143	0.37	747	46	48914	None
+419015_Alloscardovia_omnicolens	97.18	0.05	Neural Network (Specific Model)	11	0.87	251578	341.7874493927126	1744534	0.47	1482	14	346638	None
+48296_Acinetobacter_pittii	81.82	0.07	Neural Network (Specific Model)	11	0.881	80774	306.53681200857756	2916862	0.39	2798	48	272944	None
+53345_Enterococcus_durans	99.99	0.4	Neural Network (Specific Model)	11	0.832	49738	296.85847953216376	2741123	0.38	2565	94	120128	None
+59620_uncultured_Clostridium_sp.	93.66	0.95	Neural Network (Specific Model)	11	0.864	82626	316.82394141992995	3453408	0.28	3141	80	372074	None
+620903_Negativicoccus_succinicivorans	94.44	0.01	Neural Network (Specific Model)	11	0.919	136092	314.5318761384335	1123748	0.51	1098	10	313895	None

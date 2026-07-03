@@ -1,0 +1,19 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+105841_Anaerostipes_caccae	99.99	1.2	Neural Network (Specific Model)	11	0.905	55006	295.34296365330846	3143982	0.45	3219	107	140549	None
+1123249_Selenomonas_artemidis	10.15	0.0	Neural Network (Specific Model)	11	0.886	2878	254.5794117647059	292652	0.58	340	101	7702	None
+1309_Streptococcus_mutans	100.0	3.76	Neural Network (Specific Model)	11	0.872	174715	308.7507676560901	2072437	0.37	1954	15	313438	None
+137838_Clostridium_neonatale	100.0	2.92	Neural Network (Specific Model)	11	0.831	54516	290.42060451255855	4917662	0.28	4698	157	193075	None
+1496_Clostridioides_difficile	82.0	1.94	Neural Network (Specific Model)	11	0.841	6603	267.96008218373936	3251893	0.28	3407	549	29717	None
+1502943_Veillonella_seminalis	79.23	0.54	Neural Network (Specific Model)	11	0.862	44789	303.46322188449847	1733763	0.43	1645	48	122915	None
+187326_Megasphaera_micronuciformis	88.26	0.0	Neural Network (Specific Model)	11	0.911	174697	323.4260355029586	1617182	0.46	1521	16	493432	None
+2022662_Superficieibacter_electus	67.0	4.45	Neural Network (Specific Model)	11	0.886	10705	291.28847157016173	3775715	0.54	3834	447	52688	None
+216816_Bifidobacterium_longum	87.48	0.12	Neural Network (Specific Model)	11	0.875	118879	347.46652150244967	2184647	0.6	1837	35	329396	None
+244366_Klebsiella_variicola	95.94	0.37	Neural Network (Specific Model)	11	0.885	263349	316.06161137440756	5191864	0.58	4853	29	841591	None
+3000259_Bacteroides_caccae	12.45	0.01	Gradient Boost (General Model)	11	0.946	15797	332.0	15797	0.41	15	1	15797	None
+3018540_Veillonella_seminalis	16.77	0.12	Neural Network (Specific Model)	11	0.856	8024	281.78723404255317	370231	0.41	376	53	65992	None
+3024741_uncultured_Actinomyces_sp.	11.12	0.01	Neural Network (Specific Model)	11	0.929	4018	280.0269058295964	201462	0.65	223	56	10884	None
+435842_Streptococcus_sp._C150	93.33	0.52	Neural Network (Specific Model)	11	0.884	56004	308.9685124864278	1928204	0.4	1842	63	138816	None
+47678_Bacteroides_caccae	91.0	0.61	Neural Network (Specific Model)	11	0.904	197791	365.4890350877193	4418972	0.42	3648	40	580825	None
+48296_Acinetobacter_pittii	94.07	0.11	Neural Network (Specific Model)	11	0.88	49923	291.8920918367347	3894084	0.39	3920	145	194078	None
+817_Bacteroides_fragilis	94.6	0.0	Neural Network (Specific Model)	11	0.894	185596	357.57387088543	4694717	0.43	3919	47	382004	None
+83427_uncultured_Streptococcus_sp.	89.64	2.13	Neural Network (Specific Model)	11	0.885	19352	297.88782562466776	1896275	0.42	1881	138	65536	None

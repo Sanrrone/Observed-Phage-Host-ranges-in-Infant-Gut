@@ -1,0 +1,14 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1169286_Enterococcus_faecalis	15.99	0.0	Neural Network (Specific Model)	11	0.877	43924	295.30059523809524	338691	0.38	336	23	150168	None
+1351_Enterococcus_faecalis	86.18	0.05	Neural Network (Specific Model)	11	0.886	132047	303.24756493506493	2526841	0.37	2464	35	379581	None
+158787_Bifidobacterium_scardovii	86.68	2.75	Neural Network (Specific Model)	11	0.857	26303	340.2699829931973	2796378	0.65	2352	145	112514	None
+1653434_Sellimonas_intestinalis	99.27	0.41	Gradient Boost (General Model)	11	0.9	266595	324.7205673758865	3044946	0.45	2820	21	571815	None
+1685_Bifidobacterium_breve	99.54	3.35	Neural Network (Specific Model)	11	0.871	132612	338.74603985692386	2281701	0.59	1957	24	317469	None
+216816_Bifidobacterium_longum	58.6	2.52	Neural Network (Specific Model)	11	0.868	9217	291.2442613301942	1707165	0.6	1699	228	46793	None
+3019412_Citrobacter_koseri	22.45	0.17	Neural Network (Specific Model)	11	0.897	3629	266.6104815864023	1257038	0.54	1412	362	12221	None
+40545_Sutterella_wadsworthensis	96.69	1.67	Gradient Boost (General Model)	11	0.867	105774	358.01610796691335	2842432	0.55	2297	49	229943	None
+435842_Streptococcus_sp._C150	100.0	0.41	Neural Network (Specific Model)	11	0.882	73019	311.773164556962	2092047	0.4	1975	46	216892	None
+47715_Lacticaseibacillus_rhamnosus	92.43	0.17	Neural Network (Specific Model)	11	0.856	89602	304.7384849638371	2801780	0.47	2627	56	223803	None
+53345_Enterococcus_durans	99.99	0.26	Neural Network (Specific Model)	11	0.835	30949	296.1083650190114	2792313	0.38	2630	133	97339	None
+68891_Streptococcus_peroris	65.96	1.07	Neural Network (Specific Model)	11	0.901	8082	271.536312849162	1292773	0.39	1432	189	31806	None
+84112_Eggerthella_lenta	99.21	0.33	Neural Network (Specific Model)	11	0.879	48195	335.8367839889579	3316624	0.64	2898	99	147946	None

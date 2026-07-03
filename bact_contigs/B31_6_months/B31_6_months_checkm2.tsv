@@ -1,0 +1,15 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1128111_Veillonella_atypica	13.05	0.0	Neural Network (Specific Model)	11	0.89	3207	255.1290322580645	372596	0.4	434	110	25376	None
+1190620_Atopobium_sp._ICM42b	99.38	0.14	Neural Network (Specific Model)	11	0.886	107099	344.68650793650795	1468136	0.48	1260	19	248978	None
+1280_Staphylococcus_aureus	100.0	0.14	Neural Network (Specific Model)	11	0.843	113660	303.27217984745084	2685167	0.33	2491	31	373616	None
+1328_Streptococcus_anginosus	30.5	0.31	Neural Network (Specific Model)	11	0.878	3039	228.77628032345012	578292	0.39	742	186	9352	None
+28037_Streptococcus_mitis	83.43	1.75	Neural Network (Specific Model)	11	0.886	16061	295.338868707836	1923898	0.39	1927	154	41278	None
+28125_Prevotella_bivia	39.84	0.0	Neural Network (Specific Model)	11	0.876	4942	290.8866525423729	939635	0.4	944	208	13951	None
+29466_Veillonella_parvula	88.54	0.33	Neural Network (Specific Model)	11	0.876	346905	328.256027554535	1955850	0.39	1742	11	424507	None
+3013372_Prevotella_bivia	17.77	0.16	Neural Network (Specific Model)	11	0.878	2908	253.562874251497	289053	0.39	334	100	7286	None
+39778_Veillonella_dispar	41.04	0.41	Neural Network (Specific Model)	11	0.857	6703	266.7729323308271	1240278	0.38	1330	208	44258	None
+48296_Acinetobacter_pittii	100.0	0.08	Neural Network (Specific Model)	11	0.878	112964	302.69015571390867	3914725	0.39	3789	59	272916	None
+571_Klebsiella_oxytoca	94.9	3.48	Neural Network (Specific Model)	11	0.885	188954	322.11670299187637	5503002	0.55	5047	55	557794	None
+67825_Citrobacter_rodentium	33.59	0.02	Neural Network (Specific Model)	11	0.893	88834	323.20382165605093	1362196	0.56	1256	27	230162	None
+68891_Streptococcus_peroris	66.83	3.03	Neural Network (Specific Model)	11	0.903	17060	290.87655343827674	1164911	0.39	1207	98	41642	None
+83427_uncultured_Streptococcus_sp.	90.9	5.22	Neural Network (Specific Model)	11	0.884	18905	292.49730524252817	2022700	0.42	2041	179	115444	None

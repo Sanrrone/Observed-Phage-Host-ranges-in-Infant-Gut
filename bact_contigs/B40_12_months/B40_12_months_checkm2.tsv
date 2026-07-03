@@ -1,0 +1,14 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+116085_Coprococcus_catus	82.88	1.03	Neural Network (Specific Model)	11	0.886	40443	313.0820390282756	2655773	0.44	2511	100	99015	None
+1550024_Ruthenibacterium_lactatiformans	11.94	0.0	Neural Network (Specific Model)	11	0.866	3227	249.14903846153845	537351	0.58	624	162	6007	None
+1559_Clostridium_tertium	96.12	3.99	Gradient Boost (General Model)	11	0.853	37626	301.16498413614073	3668434	0.28	3467	163	113503	None
+1597_Lacticaseibacillus_paracasei	87.47	0.2	Neural Network (Specific Model)	11	0.858	22291	290.94688922610015	2675729	0.46	2636	162	68431	None
+2292041_Dorea_sp._AF36-15AT	30.99	0.1	Neural Network (Specific Model)	11	0.918	4145	263.69304556354916	1075924	0.45	1251	264	10944	None
+249061_uncultured_Actinomyces_sp.	74.31	0.86	Neural Network (Specific Model)	11	0.89	18837	327.7676767676768	1746539	0.65	1584	121	48889	None
+37734_Enterococcus_casseliflavus	55.44	1.03	Neural Network (Specific Model)	11	0.885	5117	270.7119757453259	1813922	0.44	1979	370	18533	None
+39778_Veillonella_dispar	11.34	0.12	Neural Network (Specific Model)	11	0.876	4988	258.40682414698165	336602	0.36	381	70	15686	None
+418240_Blautia_wexlerae	85.96	0.34	Neural Network (Specific Model)	11	0.862	30694	322.25	3369302	0.41	3008	156	82689	None
+53345_Enterococcus_durans	95.94	0.22	Neural Network (Specific Model)	11	0.835	35468	297.3452984783457	2733065	0.38	2563	118	132394	None
+649756_Anaerostipes_hadrus	95.19	2.4	Neural Network (Specific Model)	11	0.896	37083	308.4817117776152	2819252	0.37	2734	128	94572	None
+853_Faecalibacterium_prausnitzii	32.77	0.36	Neural Network (Specific Model)	11	0.882	5400	256.6382001836547	949087	0.61	1089	180	25729	None
+88431_Dorea_longicatena	84.05	0.61	Neural Network (Specific Model)	11	0.886	69446	314.7792732166891	2371831	0.42	2229	56	179064	None

@@ -1,0 +1,13 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1134687_Klebsiella_michiganensis	100.0	0.55	Neural Network (Specific Model)	11	0.886	248271	319.5814172634753	5733695	0.56	5306	35	533219	None
+1169286_Enterococcus_faecalis	17.49	0.02	Neural Network (Specific Model)	11	0.886	61437	278.05533596837944	475602	0.37	506	13	117470	None
+1298595_Veillonella_rogosae	27.01	0.13	Neural Network (Specific Model)	11	0.873	7166	300.81344307270234	752219	0.39	729	129	31223	None
+1351_Enterococcus_faecalis	84.74	0.63	Neural Network (Specific Model)	11	0.885	82722	310.32820976491865	2323566	0.38	2212	36	256740	None
+137838_Clostridium_neonatale	99.81	2.72	Neural Network (Specific Model)	11	0.828	56775	295.9895387541607	4505819	0.28	4206	138	136775	None
+1660_Schaalia_odontolytica	45.79	0.02	Neural Network (Specific Model)	11	0.903	143361	356.5556872037915	998986	0.66	844	10	289516	None
+216816_Bifidobacterium_longum	86.71	3.7	Neural Network (Specific Model)	11	0.869	13932	324.1771454795778	2435020	0.59	2179	251	60152	None
+244366_Klebsiella_variicola	80.2	0.18	Neural Network (Specific Model)	11	0.883	17161	296.7297118979547	4576796	0.58	4547	401	130234	None
+28026_Bifidobacterium_pseudocatenulatum	88.74	2.64	Neural Network (Specific Model)	11	0.877	35216	354.03640634174985	2060205	0.56	1703	95	106912	None
+29466_Veillonella_parvula	94.33	0.24	Neural Network (Specific Model)	11	0.884	346497	331.43509350935096	2043186	0.39	1818	16	458412	None
+3012498_Streptococcus_sp._F0442	40.66	0.0	Neural Network (Specific Model)	11	0.895	45012	291.36526946107784	651252	0.41	668	22	91732	None
+3027591_Schaalia_odontolytica	29.5	0.03	Neural Network (Specific Model)	11	0.9	68101	357.7415094339623	630825	0.66	530	16	104997	None

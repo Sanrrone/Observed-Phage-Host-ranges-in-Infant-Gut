@@ -1,0 +1,15 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1351_Enterococcus_faecalis	100.0	0.11	Neural Network (Specific Model)	11	0.883	114869	308.4201205727204	2776620	0.38	2654	41	282292	None
+1660_Schaalia_odontolytica	95.32	0.51	Neural Network (Specific Model)	11	0.895	35376	349.0127591706539	2197592	0.66	1881	98	84428	None
+1681_Bifidobacterium_bifidum	84.13	0.6	Neural Network (Specific Model)	11	0.858	25687	326.1864815932408	1887828	0.63	1657	100	70085	None
+216816_Bifidobacterium_longum	98.83	0.39	Neural Network (Specific Model)	11	0.864	159823	336.94030587074496	2367172	0.6	2027	25	298791	None
+249061_uncultured_Actinomyces_sp.	99.77	0.06	Neural Network (Specific Model)	11	0.919	218990	350.00924214417745	1850644	0.56	1623	17	456315	None
+2751_Carnobacterium_maltaromaticum	65.95	2.47	Gradient Boost (General Model)	11	0.884	9703	274.77055039313797	1301944	0.39	1399	164	30031	None
+28037_Streptococcus_mitis	14.72	0.3	Neural Network (Specific Model)	11	0.869	4871	277.2571942446043	530879	0.36	556	119	21830	None
+33945_Enterococcus_avium	96.94	1.26	Gradient Boost (General Model)	11	0.866	63350	290.07677450507003	4155598	0.39	4142	106	139696	None
+39777_Veillonella_atypica	99.98	2.34	Neural Network (Specific Model)	11	0.89	125576	320.57260556127704	2095895	0.39	1942	32	471973	None
+43675_Rothia_mucilaginosa	84.89	0.25	Neural Network (Specific Model)	11	0.837	15537	329.61163895486936	1987867	0.6	1684	180	76228	None
+565_Atlantibacter_hermannii	99.97	0.02	Neural Network (Specific Model)	11	0.888	211192	322.90288315629743	4307765	0.54	3954	33	537276	None
+68891_Streptococcus_peroris	73.66	2.98	Neural Network (Specific Model)	11	0.905	19719	294.59666413949964	1285740	0.39	1319	92	56221	None
+729_Haemophilus_parainfluenzae	93.61	1.12	Neural Network (Specific Model)	11	0.914	10698	292.3367021276596	1801846	0.4	1880	209	37683	None
+84112_Eggerthella_lenta	94.85	0.5	Neural Network (Specific Model)	11	0.88	64682	339.8143300034447	3356922	0.64	2903	87	199571	None

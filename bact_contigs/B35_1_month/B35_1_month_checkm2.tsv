@@ -1,0 +1,13 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+1028307_Klebsiella_aerogenes	16.74	2.63	Neural Network (Specific Model)	11	0.891	37832	302.0627802690583	679526	0.55	669	33	105761	None
+1282_Staphylococcus_epidermidis	97.77	0.29	Neural Network (Specific Model)	11	0.839	29080	291.00085433575396	2433358	0.32	2341	116	114594	None
+1311774_Acinetobacter_pittii	63.37	0.92	Neural Network (Specific Model)	11	0.878	4738	268.51650563607086	2275124	0.39	2484	516	37360	None
+1351_Enterococcus_faecalis	100.0	2.92	Neural Network (Specific Model)	11	0.883	195741	306.7860843819393	2813879	0.37	2702	29	527706	None
+1502943_Veillonella_seminalis	90.01	0.1	Neural Network (Specific Model)	11	0.862	144519	321.8114663726571	2028340	0.42	1814	19	347623	None
+1502_Clostridium_perfringens	92.16	0.08	Neural Network (Specific Model)	11	0.848	359044	315.07068607068607	3212945	0.28	2886	22	774240	None
+160453_Enterococcus_gilvus	99.66	3.0	Gradient Boost (General Model)	11	0.874	218068	303.90724305754367	3639123	0.42	3493	24	471927	None
+29363_Clostridium_paraputrificum	99.98	0.29	Neural Network (Specific Model)	11	0.875	47832	303.425684079602	3342326	0.3	3216	104	147761	None
+3018540_Veillonella_seminalis	25.68	0.0	Gradient Boost (General Model)	11	0.878	24573	266.6623376623377	70026	0.43	77	4	34699	None
+33010_Cutibacterium_avidum	99.55	1.53	Neural Network (Specific Model)	11	0.906	40077	332.90163191296466	2427606	0.63	2206	91	109443	None
+562_Escherichia_coli	72.31	0.69	Neural Network (Specific Model)	11	0.879	24823	294.38423127463864	3814560	0.5	3805	232	96123	None
+573_Klebsiella_pneumoniae	79.74	4.6	Neural Network (Specific Model)	11	0.885	44173	311.562125748503	4225691	0.58	4008	176	183563	None
