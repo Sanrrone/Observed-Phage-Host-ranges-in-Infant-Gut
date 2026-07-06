@@ -1,6 +1,6 @@
 # Observed phage–host ranges in the infant gut
 
-[![DOI](https://zenodo.org/badge/1017981256.svg)](https://doi.org/10.5281/zenodo.21218558)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21218558.svg)](https://doi.org/10.5281/zenodo.21218558)
 
 Sequence data and host-assignment tables supporting the study of phage–bacteria
 interactions in the early-life gut microbiome. This repository contains the phage
