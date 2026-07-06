@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the associated article and this archived repository."
+title: "Observed phage–host ranges in the infant gut"
+abstract: >-
+  Sequence data and host-assignment tables supporting the study of phage–bacteria
+  interactions in the early-life gut microbiome. The repository contains 13,235
+  phage contigs (>= 10 kb) recovered from 55 infant faecal sample-timepoints, the
+  per-sample bacterial genomes (MAGs) they were mapped against, and the resulting
+  observed phage–host associations across three reference sets (the HumGut
+  reference database, self bacterial assemblies, and pooled infant-cohort
+  assemblies). All participant identifiers have been anonymised.
+type: dataset
+authors:
+  - family-names: Valenzuela-Diaz
+    given-names: Sandro
+    orcid: "https://orcid.org/0000-0002-2284-8243"
+  - family-names: Dikareva
+    given-names: E.
+  - family-names: Hickman
+    given-names: B.
+  - family-names: Kiljunen
+    given-names: S.
+  - family-names: Kolho
+    given-names: K-L.
+  - family-names: de Vos
+    given-names: W.
+  - family-names: Salonen
+    given-names: A.
+  - family-names: Korpela
+    given-names: K.
+keywords:
+  - infant gut microbiome
+  - bacteriophage
+  - phage–host interactions
+  - metagenomics
+  - metagenome-assembled genomes
+version: v1.0.0
+date-released: "2026-07-06"
+license: MIT
+repository-code: "https://github.com/Sanrrone/Observed-Phage-Host-ranges-in-Infant-Gut"

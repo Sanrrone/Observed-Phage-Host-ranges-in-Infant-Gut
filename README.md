@@ -14,15 +14,15 @@ sequence header, or table field contains the original participant IDs.
 
 ## Dataset at a glance
 
-| Item | Count |
-|------|-------|
-| Infants | 41 |
-| Sample-timepoints (1, 6 and 12 months) | 55 |
-| Faecal metagenomes | 1,366 |
-| Phage contigs (≥ 10 kb) | 13,235 |
-| Bacterial genomes / MAGs | 1,688 (≈ 31 per sample) |
-| Host assignments — HumGut DB (HGDB) | 8,764 hits · 2,236 contigs |
-| Host assignments — self assemblies (SBA) | 5,597 hits · 5,595 contigs |
+| Item                                               | Count                       |
+| -------------------------------------------------- | --------------------------- |
+| Infants                                            | 41                          |
+| Sample-timepoints (1, 6 and 12 months)             | 55                          |
+| Faecal metagenomes                                 | 1,366                       |
+| Phage contigs (≥ 10 kb)                            | 13,235                      |
+| Bacterial genomes / MAGs                           | 1,688 (≈ 31 per sample)     |
+| Host assignments — HumGut DB (HGDB)                | 8,764 hits · 2,236 contigs  |
+| Host assignments — self assemblies (SBA)           | 5,597 hits · 5,595 contigs  |
 | Host assignments — infant-cohort assemblies (GIBA) | 22,406 hits · 7,043 contigs |
 
 Timepoint breakdown: 4 samples at 1 month, 21 at 6 months, 30 at 12 months.
@@ -68,6 +68,7 @@ participant information.
 ## File formats
 
 ### `phage_contigs/B<n>_<age>_phages.fna`
+
 Standard nucleotide FASTA. Each record is a phage contig ≥ 10 kb. Header is the
 contig ID, e.g.
 
@@ -77,6 +78,7 @@ contig ID, e.g.
 ```
 
 ### `bact_contigs/B<n>_<age>/genomes/<taxid>_<species>.fna`
+
 Nucleotide FASTA for each recovered host genome / MAG, named by NCBI taxid and
 species. Sequence headers encode `sample__taxid_species__contig`, e.g.
 `>B1_6_months__1128111_Veillonella_atypica__k141_22086`. Genome quality
@@ -84,17 +86,18 @@ species. Sequence headers encode `sample__taxid_species__contig`, e.g.
 accompanying `B<n>_<age>_checkm2.tsv` (CheckM2 output).
 
 ### `host_ranges/*.tsv`
+
 Tab-separated observed phage–host associations, one row per alignment. Columns:
 
-| Column | Description |
-|--------|-------------|
-| `sample` | Anonymised sample (`B<n>_<age>`) the phage contig comes from |
-| `contig` | Phage contig ID |
-| `qlen` | Phage contig length (bp) |
-| `HumGut_name` | *(host_hgdb.tsv only)* matched HumGut genome |
-| `ref` | Matched host reference. For SBA/GIBA this encodes `donor_sample__taxid_species__host_contig`; for HGDB it is the HumGut/kraken reference string |
-| `sstart`, `send` | Alignment coordinates on the host reference |
-| `host_genus`, `host_species` | Taxonomic assignment of the matched host |
+| Column                       | Description                                                                                                                                     |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| `sample`                     | Anonymised sample (`B<n>_<age>`) the phage contig comes from                                                                                    |
+| `contig`                     | Phage contig ID                                                                                                                                 |
+| `qlen`                       | Phage contig length (bp)                                                                                                                        |
+| `HumGut_name`                | *(host_hgdb.tsv only)* matched HumGut genome                                                                                                    |
+| `ref`                        | Matched host reference. For SBA/GIBA this encodes `donor_sample__taxid_species__host_contig`; for HGDB it is the HumGut/kraken reference string |
+| `sstart`, `send`             | Alignment coordinates on the host reference                                                                                                     |
+| `host_genus`, `host_species` | Taxonomic assignment of the matched host                                                                                                        |
 
 The three tables differ only in the reference set the phage contigs were mapped
 against:
@@ -134,12 +137,8 @@ If you use these data, please cite:
 
 > *Phage–bacteria interactions in the infant gut.* **Microbiology Spectrum** (2026).
 
-*(Please update with the final author list and DOI on publication.)*
+*(DOI on publication.)*
 
 ## License
 
 Released under the [MIT License](LICENSE).
-
-## Contact
-
-Sandro Valenzuela — sandro.valenzuela@helsinki.fi
