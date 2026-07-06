@@ -36,5 +36,9 @@ keywords:
   - metagenome-assembled genomes
 version: v1.0.0
 date-released: "2026-07-06"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21218558"
+    description: "Concept DOI (all versions) of the archived dataset on Zenodo"
 license: MIT
 repository-code: "https://github.com/Sanrrone/Observed-Phage-Host-ranges-in-Infant-Gut"
