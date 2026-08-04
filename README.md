@@ -45,25 +45,12 @@ Timepoint breakdown: 4 samples at 1 month, 21 at 6 months, 30 at 12 months.
 │   ├── host_hgdb.tsv       #   mapping vs the HumGut reference database
 │   ├── host_sba.tsv        #   mapping vs same-sample bacterial assemblies
 │   └── host_giba.tsv       #   mapping vs the pooled infant-cohort assemblies
+├── bacterial_taxonomy_profiles.tsv   # per-metagenome bacterial taxonomy (MetaPhlAn4)
 ├── slurm_scripts/          # the SLURM pipeline used to generate the data
 │   └── supp_files/         # anonymised supplementary tables (see below)
 ├── LICENSE                 # MIT
 └── README.md
 ```
-
----
-
-## Sample naming and anonymisation
-
-Every sample is identified as `B<n>_<timepoint>`, where `<n>` is the anonymised
-infant number (1–41) and `<timepoint>` is `1_month`, `6_months` or `12_months`.
-The **same identifiers are used throughout** the phage contigs, the bacterial
-genomes and the host tables, so the three data types can be cross-referenced
-directly on the `sample` field / file name.
-
-Phage and MAG sequence headers keep their assembly contig IDs (`k141_…`, and
-`…_phageN_…` / `…_checkv_…` for predicted prophage regions), which carry no
-participant information.
 
 ---
 
@@ -112,6 +99,15 @@ against:
   the **whole infant cohort**, so a phage from one infant can be matched to a host
   MAG recovered from another infant (the donor is given in `ref`).
 
+### `bacterial_taxonomy_profiles.tsv`
+
+Per-metagenome bacterial taxonomic relative-abundance profiles (MetaPhlAn4), long
+format — one row per taxon per metagenome. Columns: `sample`, the seven rank
+columns (`kingdom … species`, `NA` where unresolved) and `rel_abu` (relative
+abundance, %). Keyed on the same anonymised `sample` IDs (`B<n>_<k>`) as
+`slurm_scripts/supp_files/supp_table1.tsv`, so the two join directly; all 1,366
+study metagenomes are covered.
+
 ---
 
 ## Methods (summary)
@@ -123,6 +119,19 @@ above, keeping alignments passing the identity and coverage thresholds described
 in the manuscript. Bacterial host genomes were assembled and binned per sample and
 their quality assessed with CheckM2. The full processing pipeline is provided in
 `slurm_scripts/` (numbered `0_*` → `13_*`).
+
+## Containers and pipelines
+
+All analyses were executed within a Singularity (SIF) container to ensure
+reproducibility across computing environments.
+
+- **Bacteria mining pipeline** — container:
+  <https://datacloud.helsinki.fi/index.php/s/4SX7wmZBttpnWRg>
+- **Phage mining pipeline** — container:
+  <https://datacloud.helsinki.fi/index.php/s/JfFByXAwgYbBkQ9>
+
+More information about the pipelines can be obtained from
+[Sanrrone/Gutbusters](https://github.com/Sanrrone/Gutbusters).
 
 ## Supplementary metadata (`slurm_scripts/supp_files/`)
 
@@ -139,7 +148,7 @@ If you use these data, please cite the associated article:
 
 > *Phage–bacteria interactions in the infant gut.* **Microbiology Spectrum** (2026).
 
-*(Article DOI on publication.)*
+*(Article DOI https://doi.org/10.1128/spectrum.00361-26)*
 
 The dataset itself is archived on Zenodo; please also cite it via its DOI
 [10.5281/zenodo.21218558](https://doi.org/10.5281/zenodo.21218558) (see
